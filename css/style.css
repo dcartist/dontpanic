@@ -14,5 +14,9 @@
     height: 60px;
     border: white 1px solid;
     /* transform: scale(1); */
-    
+}
+
+.smaller-text{
+    font-size: 28px;
+    font-weight: 300;
 }
