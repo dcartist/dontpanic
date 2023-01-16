@@ -25,3 +25,17 @@
     /* margin-top: -30px; */
     /* font-size: 250px !important; */
 }
+
+.controls-arrow,
+ .controls-arrow {
+  /* font-size: 15px; */
+  height: 15px;
+  /* color: red; */
+  color: white;
+}
+
+.reveal .progress {
+    /* background: rgba(0, 0, 0, 0.2); */
+    color: rgb(255, 255, 255);
+    /* height: 1%; */
+  }
