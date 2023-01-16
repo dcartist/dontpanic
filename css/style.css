@@ -1,0 +1,14 @@
+.highlight-box{
+    border: white 1px solid;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+}
+
+
+.numbered-boxes{
+    background: white; 
+    width: 60px; 
+    height: 60px;
+    border: white 1px solid;
+    
+}
